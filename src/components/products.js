@@ -21,6 +21,7 @@ function Products() {
 
 return(
     <div>
+      <button>details Products</button>
         <div>
    <div>Filter with categorie:</div>
    <div>
